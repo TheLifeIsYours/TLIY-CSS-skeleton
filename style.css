@@ -458,6 +458,9 @@ a {
 .wFit{
   width: fit-content;
 }
+.hFit{
+  height: fit-content;
+}
 
 /*Percentage
 --------------------------*/
@@ -829,31 +832,31 @@ a {
 .pl1em {
   padding-left: 1em;
 }
-.pl2 {
+.pl2em {
   padding-left: 2em;
 }
-.pl3 {
+.pl3em {
   padding-left: 3em;
 }
-.pl4 {
+.pl4em {
   padding-left: 4em;
 }
-.pl5 {
+.pl5em {
   padding-left: 5em;
 }
-.pl6 {
+.pl6em {
   padding-left: 6em;
 }
-.pl7 {
+.pl7em {
   padding-left: 7em;
 }
-.pl8 {
+.pl8em {
   padding-left: 8em;
 }
-.pl9 {
+.pl9em {
   padding-left: 9em;
 }
-.pl10 {
+.pl10em {
   padding-left: 10em;
 }
 /*Padding Up
@@ -1275,6 +1278,15 @@ ffAwesome{
 }
 .cYellow {
   color: #f9b72a;
+}
+.cRed {
+  color: #cc0d0d;
+}
+.cLightRed {
+  color: #db4c4c;
+}
+.cDarkRed {
+  color: #5f0202;
 }
 .cGreen {
   color: #008000;
