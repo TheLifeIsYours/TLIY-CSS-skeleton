@@ -1255,6 +1255,8 @@ ffAwesome{
 ---------------------------------------------------------------------------------*/
 .transitionAllEase0_7s{
   transition: all ease 0.7s;
+}.transitionAllEase0_3s{
+  transition: all ease 0.3s;
 }.transitionBackgroundEase0_7s{
   transition: background ease 0.7s;
 }.transitionBackgroundEase0_3s{
